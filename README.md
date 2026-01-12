@@ -34,7 +34,7 @@ I build systems where **low-level efficiency meets intelligent software** — fr
 ### [Handly – Interactive Sign Language Learning App](https://github.com/YaelBatat/Handly)
 A Python (PyQt5) desktop application for real-time sign language learning using **MediaPipe** and **MMPT SignCLIP** for gesture recognition. Includes live feedback, voice instructions, and adaptive mini-games.
 
-### [DEFV - Debate-Enhanced Fact Verification](https://github.com/YaelBatat/DEFV)
+### [DEFV - Debate-Enhanced Fact Verification](https://github.com/gilas19/DEFV.git)
 A research project exploring how multi-agent debate improves fact verification accuracy using fine-tuned T5 models on the FEVER dataset and CMV conversation data. Implements a debate-enhanced system with two agents arguing for opposing stances to improve claim verification accuracy.
 
 ### [DNS Cache Poisoning Research](https://github.com/YaelBatat/dns-cache-poisoning)
