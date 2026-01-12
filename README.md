@@ -37,7 +37,7 @@ A Python (PyQt5) desktop application for real-time sign language learning using 
 ### [DEFV - Debate-Enhanced Fact Verification](https://github.com/gilas19/DEFV.git)
 A research project exploring how multi-agent debate improves fact verification accuracy using fine-tuned T5 models on the FEVER dataset and CMV conversation data. Implements a debate-enhanced system with two agents arguing for opposing stances to improve claim verification accuracy.
 
-### [DNS Cache Poisoning Research](https://github.com/YaelBatat/dns-cache-poisoning)
+### [DNS Cache Poisoning Research](https://github.com/YaelBatat/BIND9-DNS-Cache-Poisoning.git)
 A cybersecurity project simulating a DNS cache poisoning attack on BIND9 using **LFSR analysis** and raw packet injection.
 
 ---
